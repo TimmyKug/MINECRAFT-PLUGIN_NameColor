@@ -1,0 +1,7 @@
+name: NameColors
+version: '${project.version}'
+main: me.zesimme.namecolors.NameColors
+api-version: 1.19
+authors: [ ZeSimme ]
+description: Lets you customize the color of your Display Name in chat, tab and above your head
+website: youtube.com/techonblade
